@@ -141,8 +141,4 @@ dmypy.json
 .DS_store
 
 # Generated files
-/pydra/tasks/nireports/_version.py
-/related-packages/fileformats/fileformats/medimage_nireports/_version.py
-/related-packages/fileformats-extras/fileformats/extras/medimage_nireports/_version.py
-/pydra/tasks/nireports/auto
-/pydra/tasks/nireports/_version.py
+/pydra/tasks/nireports
