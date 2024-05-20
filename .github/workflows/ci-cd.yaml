@@ -178,7 +178,7 @@ jobs:
         name: pydra-nireports
 
   deploy:
-    needs: [nipype-conv, test, deploy-fileformats, deploy-fileformats-extras]
+    needs: [nipype-conv, test]
     runs-on: ubuntu-latest
     steps:
 
